@@ -401,6 +401,10 @@ header{
     height: 2.5rem;
 }
 
+.card-info button:hover{
+    cursor: pointer;
+}
+
 .card:hover .card-info{
     bottom: 2rem;
     opacity: 1;
