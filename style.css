@@ -511,9 +511,17 @@ header{
 }
 
 @media screen and (max-width: 768px){
-   section, aside{
+   section, aside, .image-wrapper, .conhecimento{
        width: 100%;
-       padding 0;
+       padding: 0;
    }
    
 }
+
+@media screen and (max-width: 768px){
+    section, aside, .image-wrapper, .conhecimento{
+        width: 100%;
+        padding: 0;
+    }
+    
+ }
